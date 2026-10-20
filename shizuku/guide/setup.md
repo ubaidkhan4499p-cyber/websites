@@ -2,7 +2,7 @@
 
 [[toc]]
 
-## Start Shizuku
+## Start Shizuku adb shell /data/app/~~ENzqe5UUO1c-L3qNhJPuIw==/moe.shizuku.privileged.api-zdg6fAH7ZOqNNWQ0eeqQKg==/lib/arm64/libshizuku.so
 
 Shizuku supports startup in the following three ways.
 
